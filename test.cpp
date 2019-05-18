@@ -1,4 +1,5 @@
-void Test()
+﻿void Test()
 {
 	printf("testtttttt");
+	//ああああああ
 }
