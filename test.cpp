@@ -2,4 +2,5 @@
 {
 	printf("testtttttt");
 	//ああああああ
+	yyyyyyy
 }
