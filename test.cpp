@@ -2,5 +2,6 @@
 {
 	printf("testtttttt");
 	//ああああああ
-	yyyyyyy
+	//yyyyyyy
+	//らりるれろ
 }
